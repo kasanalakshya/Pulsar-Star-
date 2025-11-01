@@ -1,26 +1,26 @@
 # Pulsar-Star
-🌠 What is a Pulsar Star?
+ What is a Pulsar Star?
 
 A Pulsar (short for Pulsating Radio Star) is a type of neutron star — the dense, collapsed core left behind after a massive star explodes in a supernova.
 Pulsars emit powerful beams of electromagnetic radiation (typically radio waves) from their magnetic poles.
 As the star spins, these beams sweep across space like the beams of a lighthouse, and when they point toward Earth, they appear as regular pulses of radiation — hence the name pulsar.
 
-🚀 Importance and Significance of Pulsar Stars
+ Importance and Significance of Pulsar Stars
 
 Pulsar stars hold immense scientific importance because of their extreme stability and precision:
 
-🛰️ Autonomous Space Navigation (Pulsar-based GPS):
+ Autonomous Space Navigation (Pulsar-based GPS):
 Pulsars can act as natural cosmic lighthouses, allowing spacecraft to navigate autonomously in deep space by measuring the time delays between pulses.
 NASA and ESA are already experimenting with pulsar-based navigation systems for interplanetary travel.
 
-⏱️ Accurate Time Calculation:
+ Accurate Time Calculation:
 Some pulsars are more stable than atomic clocks.
 Their consistent pulse intervals make them ideal for applications in high-precision timekeeping and for studying gravitational waves and black holes.
 
-🔭 Astrophysical Insights:
+ Astrophysical Insights:
 Studying pulsars helps scientists understand the life cycle of stars, the behavior of matter under extreme gravity, and the nature of the universe’s magnetic fields.
 
-💻 About the Project
+ About the Project
 
 This project aims to detect and classify pulsar stars using machine learning algorithms based on real observational data.
 The dataset used (HTRU2) contains features derived from radio emission profiles and DM-SNR curves, which help differentiate real pulsars from noise or false signals.
@@ -47,7 +47,7 @@ Model Training — trained SVM, Naïve Bayes, and Decision Tree classifiers.
 
 Model Evaluation — compared results using accuracy and classification reports.
 
-🧰 Tools and Technologies
+ Tools and Technologies
 Category	Tools / Libraries
 Programming Language	Python
 Data Analysis & Visualization	Pandas, NumPy, Matplotlib, Seaborn
